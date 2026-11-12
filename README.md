@@ -1,2 +1,4 @@
-# railguard
-RailGuard is a smart IoT-based railway protection project that uses sensors, edge computing and real-time alerts to detect suspicious activity and help prevent vandalism.
+# yantra
+Yantra is a HAMK student engineering office that helps clients explore, prototype and test connected technology. 
+
+We bring together sensors, software and data to turn practical challenges into clear IoT solutions.
